@@ -1,0 +1,29 @@
+Reading netlist file: "C:\Users\asus\Desktop\trafiksinyalodev\impl\gwsynthesis\trafiksinyalodev.vg"
+Parsing netlist file "C:\Users\asus\Desktop\trafiksinyalodev\impl\gwsynthesis\trafiksinyalodev.vg" completed
+Processing netlist completed
+Reading constraint file: "C:\Users\asus\Desktop\trafiksinyalodev\src\trafiksinyalodev.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "C:\Users\asus\Desktop\trafiksinyalodev\impl\pnr\trafiksinyalodev.power.html" completed
+Generate file "C:\Users\asus\Desktop\trafiksinyalodev\impl\pnr\trafiksinyalodev.pin.html" completed
+Generate file "C:\Users\asus\Desktop\trafiksinyalodev\impl\pnr\trafiksinyalodev.rpt.html" completed
+Generate file "C:\Users\asus\Desktop\trafiksinyalodev\impl\pnr\trafiksinyalodev.rpt.txt" completed
+Generate file "C:\Users\asus\Desktop\trafiksinyalodev\impl\pnr\trafiksinyalodev.tr.html" completed
+Sun Apr 16 05:37:56 2023
+
